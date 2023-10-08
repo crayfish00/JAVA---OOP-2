@@ -1,7 +1,3 @@
-/**
- *
- * @author Miguel Capule
- */
 package Fundamentals;
 
 public class Cat extends Animal{

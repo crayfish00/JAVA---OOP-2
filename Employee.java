@@ -1,9 +1,4 @@
-/**
- *
- * @author Miguel Capule
- */
 package Fundamentals;
-
 
 
 public class Employee {
